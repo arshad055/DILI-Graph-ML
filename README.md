@@ -136,10 +136,14 @@ python src/step10_train_mpnn.py
 
 ## Project Structure
 dili_project/
-│
+
+
 ├── data/
+
 ├── src/
+
 ├── README.md
+
 └── .gitignore
 
 ---
